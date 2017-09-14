@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7454beb0269585d065442f8daf00d5a753efe75b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/okhttp-3.8.1_5faa02a8da5d1236ee0518334ff1d7be1a5d1c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.android/build-cache/e5e5000fdb520436ddb26de75e8287371aaffb96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/classes_246fe2b728a18272f1dd9a7498c96708d4d1c143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/gson-2.7_9a977df88d8d5ef677c627f15978a7731021464d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.android/build-cache/218f180a6df83bfb96f776e55624b25eafb1b916/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/classes_3cfd5884d71c31e500114b660b9f1cd349652867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_d477847baefb5b584cf88d4a7d5344ceb3aaf620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.1/feab46062803513d6a8307c74b0084265855de1a/logging-interceptor-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.8.1_6227d1066638d47178e70214d225e747b300d4de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/sourav/AndroidStudioProjects/MyBlog/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_9672b9a04c4ece55c5d8c712dea7ca67579fb896.jar" />
+    </item>
+
+</items>
